@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
+        <meta name="description" content="Asesoramiento integral del derecho" />
+        <meta name="author" content="www.nuestraweb.com.ar" />
         <title>Dra. Verónica Díaz</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
@@ -68,56 +68,56 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpeg">
+                        <!--a class="portfolio-box"href="assets/img/portfolio/fullsize/1.jpeg"-->
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/1.jpeg" alt="" />
                             <div class="portfolio-box-caption">
                                 <!--div class="project-category text-white-50">Category</div-->
-                                <div class="project-name">Derecho Civil</div>
+                                <div class="project-name" align="center">Derecho Civil</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/2.jpeg">
+                        <!--a class="portfolio-box" href="assets/img/portfolio/fullsize/2.jpeg"-->
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpeg" alt="" />
                             <div class="portfolio-box-caption">
                                 <!--div class="project-category text-white-50">Category</div-->
-                                <div class="project-name">Contratos</div>
+                                <div class="project-name" align="center">Contratos</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpeg">
+                        <!--a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpeg"-->
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpeg" alt="" />
                             <div class="portfolio-box-caption">
                                 <!--div class="project-category text-white-50">Category</div-->
-                                <div class="project-name" >Sucesiones</div>
+                                <div class="project-name" align="center" >Sucesiones</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpeg">
+                        <!--a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpeg"-->
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/4.jpeg" alt="" />
                             <div class="portfolio-box-caption">
                                 <!--div class="project-category text-white-50">Category</div-->
-                                <div class="project-name">Jubilaciones y Pensiones</div>
+                                <div class="project-name" align="center">Jubilaciones y Pensiones</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/5.jpeg">
+                        <!--a class="portfolio-box" href="assets/img/portfolio/fullsize/5.jpeg"-->
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/5.jpeg" alt="" />
                             <div class="portfolio-box-caption">
                                 <!--div class="project-category text-white-50">Category</div-->
-                                <div class="project-name">Familia</div>
+                                <div class="project-name" align="center">Familia</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/6.jpeg">
+                        <!--a class="portfolio-box" href="assets/img/portfolio/fullsize/6.jpeg"-->
                             <img class="img-fluid" src="assets/img/portfolio/thumbnails/6.jpeg" alt="" />
                             <div class="portfolio-box-caption p-3">
                                 <!--div class="project-category text-white-50">Category</div-->
-                                <div class="project-name">Tributario</div>
+                                <div class="project-name" align="center">Tributario</div>
                             </div>
                         </a>
                     </div>
@@ -154,7 +154,7 @@
                         <div class="mt-5">
                             <i class="fas fa-4x fas fa-hands-helping text-secondary mb-4"></i>
                             <!--h3 class="h4 mb-2">tema4</h3-->
-                            <p class="text-muted mb-0">Y POR SOBRE TODO NUESRTO COMPROMISO CON UD.</p>
+                            <p class="text-muted mb-0">Y POR SOBRE TODO NUESTRO COMPROMISO CON UD.</p>
                         </div>
                     </div>
                 </div>
@@ -173,36 +173,36 @@
                         <legend class="text-left header">CONTACTO</legend>
 
                         <div class="form-group">
-                            <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user bigicon"></i></span>
+                            <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user bigicon" color="black"></i></span>
                             <div class="col-md-8">
-                                <input id="fname" name="nombre" type="text" placeholder="Nombre" class="form-control">
+                                <input id="fname" name="nombre" type="text" placeholder="Nombre" class="form-control" required>
                             </div>
                         </div>
                         <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user bigicon"></i></span>
                             <div class="col-md-8">
-                                <input id="lname" name="apellido" type="text" placeholder="Apellido" class="form-control">
+                                <input id="lname" name="apellido" type="text" placeholder="Apellido" class="form-control" required>
                             </div>
                         </div>
 
                         <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-envelope-o bigicon"></i></span>
                             <div class="col-md-8">
-                                <input id="email" name="email" type="text" placeholder="Email" class="form-control">
+                                <input id="email" name="email" type="email" placeholder="Email" class="form-control" required>
                             </div>
                         </div>
 
                         <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-phone-square bigicon"></i></span>
                             <div class="col-md-8">
-                                <input id="phone" name="telefono" type="text" placeholder="Telefono" class="form-control">
+                                <input id="phone" name="telefono" type="number" placeholder="Telefono" class="form-control" required>
                             </div>
                         </div>
 
                         <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-pencil-square-o bigicon"></i></span>
                             <div class="col-md-8">
-                                <textarea class="form-control" id="message" name="mensaje" placeholder="Ingresa aquí un mensaje para nosotros, nos comunicaremos a la brevedad" rows="7"></textarea>
+                                <textarea class="form-control" id="message" name="mensaje" placeholder="Ingresa aquí un mensaje para nosotros, nos comunicaremos a la brevedad" rows="7" required></textarea>
                             </div>
                         </div>
 
@@ -229,7 +229,7 @@
                                             {
                                                 if(isset($mensaje))
                                                 {
-                                                    $para = "diazv735@gmail.com"; //colocar aqui el correo a dodne quieres que llegue
+                                                    $para = "info@draveronicadiaz.com.ar"; //colocar aqui el correo a dodne quieres que llegue
                                                     $asunto = "consulta";
                                                     $cuerpo = $nombre."\n".$apellido."\n".$email."\n".$telefono."\n".$mensaje;
                                                     $adicional = "From: noreply@jacoboamaru.com";
@@ -250,6 +250,13 @@
     </div>
 </div>
     </section><!--/#contact-page-->
+              <div class="btn-whatsapp">
+                <a href="https://api.whatsapp.com/send?phone=543413309777&text=Consulta" target="_blank">
+               <img src="assets/img/btn_whatsapp.png" alt="">
+                </a>
+             </div>
+    
+    
         <!-- Footer-->
         <footer class="bg-light py-5">
             <div class="container" align="center">
@@ -260,7 +267,7 @@
                             <a href="https://www.facebook.com/profile.php?id=100048978019578" target="_blank"><span class="col-md-1 col-md-offset-2 text-center"><i class="fab fa-facebook-square"></i></span></a>
                             
 
-                            <a href=https://api.whatsapp.com/send?phone=3413309777&text=Consulta">
+                            <a href=https://api.whatsapp.com/send?phone=543413309777&text=Consulta" target="_blank">
                             <span class="col-md-1 col-md-offset-2 text-center"> <i class="fab fa-whatsapp"></i></a> </span>
                                             
                     
